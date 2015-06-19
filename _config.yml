@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://sindhujasundaraj.github.io
+title: tech4women
+tagline: Innovation for people
+description: tech4women aims to create a awareness about technology
+paginate: 10
